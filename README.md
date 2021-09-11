@@ -7,8 +7,8 @@ Predição de Demandas de Estoque com o uso de Recurrent Neural Network LSTM (Lo
 
 Pontifícia Universidade Católica do Rio de Janeiro – Puc-Rio
 Curso:  	Pós Graduação em Business Intelligence - BI MASTER
-(https://ica.puc-rio.ai/bi-master)
-Aluno: 	Maximiliano Augusto Rocha Júnior.
+          (https://ica.puc-rio.ai/bi-master)
+Aluno: 	    Maximiliano Augusto Rocha Júnior.
 Matrícula: 	181.477.003
 Orientador:	Leonardo Forero Mendonza
 
