@@ -48,7 +48,7 @@ Para este trabalho foi utilizado o banco de dados Oracle para a extração dos d
 9.	O treinamento da rede, foi executado diversas vezes com quantidades de épocas diferentes, até que o melhor resultado de configuração com 300 épocas fosse alcançado, para isto foram usados dados dos últimos 9 anos para treino.
 10.	Foi separado um período do último ano para Teste na rede neural.
 11.	Os resultados reais e de predição foram plotados em um gráfico e sobrepostos para avaliação da acurácia alcançada.
-12.	Para métricas de avaliação foram usadas as técnicas de RMSE (Root mean Squared Error), MAE (Mean Absolute Error) e MAPE (Mean Absolute Percentage Error) sendo este último usado como norte para os testes e alcançando resultados de erros na predição próximos à 15% e acertos na casa de 85% de acurácia.
+12.	Para métricas de avaliação foram usadas as técnicas de RMSE (Root Mean Squared Error), MAE (Mean Absolute Error) e MAPE (Mean Absolute Percentage Error) sendo este último usado como norte para os testes e alcançando resultados de erros na predição próximos à 15% e acertos na casa de 85% de acurácia.
 
 
 ## Codificação
