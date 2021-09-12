@@ -37,7 +37,7 @@ Para este trabalho foi utilizado o banco de dados Oracle para a extração dos d
 
 ## Metodologia
 
-1.	Seleção: Nesta etapa foi escolhido um produto de exemplo, Lamen Nissin Galinha Caipira, e extraído os dados de vendas mensais a no período entre 2011 e 2021  através de comandos SQL no banco de dados Oracle, transformando o resultado da Query em um arquivo de saída texto separado por vírgulas, este arquivo por sua vez foi salvo no Google Drive.
+1.	Na etapa de seleção dos dados, foi escolhido um produto de exemplo, Lamen Nissin Galinha Caipira, e extraído os dados de vendas mensais a no período entre 2011 e 2021  através de comandos SQL no banco de dados Oracle, transformando o resultado da Query em um arquivo de saída texto separado por vírgulas, este arquivo por sua vez foi salvo no Google Drive.
 2.	Utilizado um Notebook Python na ferramenta Google Colaboratory para codificação na linguagem Python.
 3.	Montado o Drive Google através do biblioteca google.colab e definido um diretório de trabalho.
 4.	Para desenvolvimento do código, foram usadas as bibliotecas, Pandas, Sklearn, Keras, Math, Matplotlib, Numpy.
