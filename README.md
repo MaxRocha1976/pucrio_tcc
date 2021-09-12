@@ -43,7 +43,7 @@ Para este trabalho foi utilizado o banco de dados Oracle para a extração dos d
 4.	Para desenvolvimento do código, foram usadas as bibliotecas, Pandas, Sklearn, Keras, Math, Matplotlib, Numpy.
 5.	Os dados CSV do arquivo ‘lamen_mes.csv’ foram alocados em um dataset.
 6.	Os dados foram normalizados e escalados para números entre 0 e 1.
-7.	A partir desta etapa, foram utilizados os algoritmos de Redes Neurais Recorrentes com LSTM, onde utilizamos quatro camadas com 150, 100 e 50 neurônios de entrada e uma camada de saída com 1 neurônio.
+7.	A partir desta etapa, foram utilizados os algoritmos de Redes Neurais Recorrentes com LSTM, onde utilizamos três camadas de entrada com 150, 100 e 50 neurônios e uma camada de saída com 1 neurônio.
 8.	A Rede Neural foi compilada com otimizador ‘adam’ e o erro foi mensurado com ‘mean_squared_error’ e métricas de acurácia ‘acc’.
 9.	O treinamento da rede, foi executado diversas vezes com quantidades de épocas diferentes, até que o melhor resultado de configuração com 300 épocas fosse alcançado, para isto foram usados dados dos últimos 9 anos para treino.
 10.	Foi separado um período do último ano para Teste na rede neural.
